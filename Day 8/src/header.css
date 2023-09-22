@@ -1,0 +1,41 @@
+.header{
+    width: 45%;
+    height: 1cm;
+    margin-top: -3cm;
+    background-color: rgba(197, 205, 206, 0.623);
+    display: fixed;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 57%;
+    position: fixed;
+}
+
+#home{
+    font-size: 2ch;
+    padding: 0.2cm;
+    color: rgb(1, 42, 42);
+}
+
+#contact{
+    font-size: 2ch;
+    padding: 0.2cm;
+    color: rgb(1, 42, 42);
+}
+
+#aboutus{
+    font-size: 2ch;
+    padding: 0.2cm;
+    color: rgb(1, 42, 42);
+}
+
+#organ{
+    font-size: 2ch;
+    padding: 0.2cm;
+    color: rgb(1, 42, 42);
+}
+
+#article{
+    font-size: 2ch;
+    padding: 0.2cm;
+    color: rgb(1, 42, 42);
+}
