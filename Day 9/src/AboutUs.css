@@ -1,0 +1,28 @@
+.about-us {
+    padding: 20px;
+    background-image: url('./about.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+  }  
+
+  .w{
+    background-color: rgba(130, 125, 125, 0.733);
+  }
